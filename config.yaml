@@ -1,0 +1,15 @@
+---
+name: mryi
+version: 2
+
+libraries:
+- name: "beautifulsoup"
+  version: "3.0"
+
+- name: "django-tinymce"
+  version: "1.5"
+
+- name: "django"
+  version: "1.4"
+
+...
